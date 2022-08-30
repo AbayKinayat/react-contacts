@@ -1,0 +1,9 @@
+.custom-title {
+    margin-bottom: 0 !important;
+
+    &-block {
+        height: 40px;
+        width: 5px;
+        background: rgb(5, 23, 31);
+    }
+}
